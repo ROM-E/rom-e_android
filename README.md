@@ -1,5 +1,5 @@
 # rom-e_android
-ROM-E Sync Sources
+<b>ROM-E Sync Sources</b>
 To initialize your local repository:
 
 repo init -u git://github.com/LineageOS/android.git -b eleven
