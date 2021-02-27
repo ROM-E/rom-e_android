@@ -1,4 +1,4 @@
-# rom-e_android
+
 <b>ROM-E Sync Sources</b>
 
 To initialize your local repository:
